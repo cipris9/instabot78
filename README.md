@@ -1,4 +1,3 @@
-# instabot78
 # InstaBot
 
 ---
